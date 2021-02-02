@@ -458,9 +458,6 @@ public func setPitch(pValue: Float) {
 *****
 
 
-#### 使用Audio Unit实现伴奏演唱混音
-
-
 ####引用文摘
 https://blog.csdn.net/alwaysrun/article/details/108476785
 https://www.cnblogs.com/wangyaoguo/p/8392660.html
