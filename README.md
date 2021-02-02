@@ -454,7 +454,7 @@ public func setPitch(pValue: Float) {
 ```
 
 
-项目demo地址
+[项目demo地址](https://github.com/eaglesue/EARecorder_pitch)
 *****
 
 
